@@ -1,0 +1,18 @@
+/* CSS reset */
+html,
+body {
+  height: 100%;
+}
+
+/* 全局颜色变量 */
+:root {
+  --primary-color: #409eff;
+  --success-color: #67c23a;
+  --warning-color: #e6a23c;
+  --danger-color: #f56c6c;
+  --info-color: #909399;
+  --background-color: #f0f2f5;
+  --border-color: #dcdfe6;
+  --text-color: #303133;
+  --text-color-secondary: #606266;
+}
