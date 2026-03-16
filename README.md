@@ -2,6 +2,8 @@
 
 基于 Vue 3 + TypeScript + Element Plus 构建的企业管理系统前端界面。
 
+[![Deploy Vue App](https://github.com/Kairedchan/enterprise-management-system/actions/workflows/deploy.yml/badge.svg)](https://github.com/Kairedchan/enterprise-management-system/actions/workflows/deploy.yml)
+
 ## 项目概述
 
 这是一个现代化、响应式的企业管理后台系统，参考了企业微信的管理界面设计风格，提供了用户管理、文档管理、数据统计等核心功能。
